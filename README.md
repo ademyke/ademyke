@@ -1,4 +1,4 @@
-# 👋<br>I'm Michael, I am a frontend developer with a passion for creating user-friendly and visually appealing web experiences. Constantly striving to expand my skills and knowledge, I have an ambitious drive to continue learning and staying up-to-date with the latest trends and technologies in frontend development.
+# 👋<br>I'm Michael, frontend developer with a passion for creating user-friendly and visually appealing web experiences. Constantly striving to expand my skills and knowledge, I have an ambitious drive to continue learning and staying up-to-date with the latest trends and technologies in frontend development.
 👨‍⚕️💻<br>## Currently Working On<br>- Development of Rapid Relief, a Telehealthcare App 
 🚀<br>- UX Design Lead for Rapid Relief App (self-designed) 
 🎨<br><br>## Seeking Collaborators<br>I'm looking for talented individuals to collaborate on making Rapid Relief a fully functional Mobile App and Web App system. If you're a Backend Developer, Mobile App Developer, or a Full Stack Developer interested in joining forces, let's connect! 
