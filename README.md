@@ -6,7 +6,7 @@
 🎓<br>- Extensive experience as a Graphic Design Specialist 
 🖌️<br>- Entrepreneurial journey as the Founder of Bamilor Int. LLC 
 🚀<br>- Currently working as a Product Designer at Hospital Beneficência Portuguesa 
-🏥<br><br>## Get in Touch<br>Let's connect and collaborate on exciting projects! Feel free to reach out:<br>- Email: your.email@example.com 📧<br><br>
+🏥<br><br>## Get in Touch<br>Let's connect and collaborate on exciting projects! Feel free to reach out:<br>- Email: ademyke@gmail.com 📧<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//michaeltosinadesanwo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//michaeltosinadesanwo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//michaeltosinadesanwo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com//michaeltosinadesanwo) 
